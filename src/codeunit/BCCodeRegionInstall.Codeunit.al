@@ -69,5 +69,6 @@ codeunit 50602 "BC Code/Region Install"
 
     //mojaizmena
     //drugaizmena
+    //trecaizmena
 
 }
